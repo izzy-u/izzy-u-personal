@@ -5,7 +5,7 @@ import { Education } from "../components/Education"
 import { Skillz } from "../components/Skillz"
 import { Work } from "../components/Work"
 import { Contact } from "../components/Contact"
-import CablesPatch from "../components/cables_react/src/CablesPatch.js"
+import CablesPatch from "../components/cables_react/src/CablesPatch.jsx"
 
 export default function Home() {
 
@@ -25,7 +25,6 @@ export default function Home() {
             <Education/>
             <Skillz/>
             <Contact/>
-            <PatchTest/>
 
          
         </main>
