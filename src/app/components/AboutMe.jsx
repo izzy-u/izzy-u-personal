@@ -1,6 +1,5 @@
 'use client'
 import {Moon} from 'lucide-react'
-import CablesPatch from './cables_react/src/CablesPatch'
 
 export const AboutMe = () => {
     return(
