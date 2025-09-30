@@ -2,7 +2,6 @@
 import {Mail, Send} from "lucide-react";
 import { useEffect, useState, useRef, Fragment } from "react";
 import { AnimatedText } from "./TypingIntro";
-import CablesPatch from "./cables_react/src/CablesPatch";
 
 const navItems = [
     {name: "ABOUT", href: "#about", img: "/coin-icon-pixel.png", darkimg: "/coin-icon-pixel-green.png", alt: "about me icon"},
