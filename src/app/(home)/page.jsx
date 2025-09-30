@@ -5,7 +5,6 @@ import { Education } from "../components/Education"
 import { Skillz } from "../components/Skillz"
 import { Work } from "../components/Work"
 import { Contact } from "../components/Contact"
-import { PatchTest } from "../components/PatchTest"
 import CablesPatch from "../components/cables_react/src/CablesPatch.js"
 
 export default function Home() {
